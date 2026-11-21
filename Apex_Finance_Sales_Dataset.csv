@@ -1,0 +1,241 @@
+Transaction_ID,Date,Branch,Product,Customer_Age,Gender,Amount_INR,Payment_Mode,Status
+AF0001,2026-01-28,Ludhiana,Equity Investments,52,Male,70700,Debit Card,Successful
+AF0002,2026-10-24,Jalandhar,Debt Funds,58,Male,65900,Net Banking,Successful
+AF0003,2026-02-25,Amritsar,Debt Funds,40,Male,83700,UPI,Successful
+AF0004,2026-06-18,Patiala,Mutual Funds,28,Male,77900,NEFT,Successful
+AF0005,2026-01-21,Jalandhar,Pension Plans,29,Male,87500,Net Banking,Successful
+AF0006,2026-01-14,Jalandhar,Mutual Funds,37,Male,68100,NEFT,Successful
+AF0007,2026-10-03,Amritsar,Equity Investments,26,Male,36400,Net Banking,Successful
+AF0008,2026-03-10,Amritsar,Debt Funds,49,Male,84900,Debit Card,Successful
+AF0009,2026-08-22,Patiala,Pension Plans,33,Female,75700,Debit Card,Successful
+AF0010,2026-02-12,Ludhiana,Mutual Funds,56,Female,73400,Debit Card,Successful
+AF0011,2026-03-26,Ludhiana,Equity Investments,27,Male,71300,Net Banking,Successful
+AF0012,2026-07-23,Amritsar,Equity Investments,46,Female,77600,Debit Card,Successful
+AF0013,2026-01-28,Chandigarh,Mutual Funds,40,Male,52500,Net Banking,Successful
+AF0014,2026-05-05,Chandigarh,Pension Plans,59,Male,7900,Net Banking,Successful
+AF0015,2026-05-13,Patiala,Equity Investments,50,Male,61200,Net Banking,Successful
+AF0016,2026-09-05,Ludhiana,Mutual Funds,55,Male,33400,Debit Card,Successful
+AF0017,2026-08-06,Amritsar,Equity Investments,52,Male,18700,UPI,Successful
+AF0018,2026-04-26,Jalandhar,Mutual Funds,64,Male,63100,UPI,Successful
+AF0019,2026-04-14,Amritsar,Pension Plans,32,Female,86700,Net Banking,Successful
+AF0020,2026-08-25,Amritsar,Debt Funds,24,Female,72000,UPI,Successful
+AF0021,2026-02-08,Patiala,Mutual Funds,47,Male,43700,Net Banking,Successful
+AF0022,2026-09-18,Jalandhar,Debt Funds,34,Female,46800,Debit Card,Successful
+AF0023,2026-01-29,Jalandhar,Mutual Funds,22,Female,60200,UPI,Successful
+AF0024,2026-04-11,Ludhiana,Mutual Funds,56,Female,62600,UPI,Successful
+AF0025,2026-10-28,Chandigarh,Equity Investments,22,Female,54300,Net Banking,Successful
+AF0026,2026-05-27,Ludhiana,Debt Funds,51,Female,10500,Net Banking,Successful
+AF0027,2026-02-18,Patiala,Equity Investments,35,Female,53500,NEFT,Successful
+AF0028,2026-05-14,Patiala,Mutual Funds,45,Female,35900,UPI,Pending
+AF0029,2026-04-06,Chandigarh,Debt Funds,50,Female,14200,NEFT,Successful
+AF0030,2026-08-22,Patiala,Mutual Funds,31,Female,57200,UPI,Successful
+AF0031,2026-06-16,Patiala,Pension Plans,35,Female,36500,Debit Card,Successful
+AF0032,2026-03-30,Chandigarh,Equity Investments,29,Male,81900,UPI,Pending
+AF0033,2026-04-01,Ludhiana,Pension Plans,54,Female,41900,UPI,Pending
+AF0034,2026-09-29,Chandigarh,Equity Investments,36,Male,44900,Debit Card,Successful
+AF0035,2026-09-27,Ludhiana,Debt Funds,63,Male,13000,UPI,Successful
+AF0036,2026-02-07,Ludhiana,Pension Plans,37,Female,80800,Debit Card,Successful
+AF0037,2026-01-14,Chandigarh,Mutual Funds,64,Female,21600,Net Banking,Successful
+AF0038,2026-02-13,Chandigarh,Mutual Funds,21,Male,19800,Debit Card,Successful
+AF0039,2026-04-01,Amritsar,Debt Funds,29,Female,48000,UPI,Successful
+AF0040,2026-08-06,Ludhiana,Debt Funds,46,Male,75200,NEFT,Successful
+AF0041,2026-10-23,Chandigarh,Equity Investments,64,Male,30500,NEFT,Successful
+AF0042,2026-10-09,Amritsar,Mutual Funds,58,Male,55700,UPI,Successful
+AF0043,2026-08-16,Ludhiana,Pension Plans,62,Female,40600,Net Banking,Successful
+AF0044,2026-05-23,Ludhiana,Debt Funds,33,Female,76900,NEFT,Successful
+AF0045,2026-05-21,Patiala,Equity Investments,60,Female,24700,Net Banking,Successful
+AF0046,2026-05-06,Amritsar,Equity Investments,64,Male,83700,NEFT,Successful
+AF0047,2026-06-11,Patiala,Mutual Funds,57,Male,26000,NEFT,Successful
+AF0048,2026-01-21,Ludhiana,Debt Funds,35,Male,35400,Net Banking,Successful
+AF0049,2026-10-06,Amritsar,Mutual Funds,27,Male,83200,Debit Card,Successful
+AF0050,2026-01-07,Ludhiana,Mutual Funds,40,Female,21500,Debit Card,Successful
+AF0051,2026-09-02,Jalandhar,Mutual Funds,60,Female,38400,Debit Card,Successful
+AF0052,2026-01-14,Chandigarh,Mutual Funds,49,Male,80500,Debit Card,Successful
+AF0053,2026-03-27,Patiala,Equity Investments,25,Female,9100,UPI,Successful
+AF0054,2026-01-16,Ludhiana,Pension Plans,57,Prefer not to say,63500,NEFT,Successful
+AF0055,2026-04-08,Jalandhar,Debt Funds,56,Male,73100,NEFT,Successful
+AF0056,2026-06-12,Patiala,Equity Investments,56,Female,87100,Net Banking,Successful
+AF0057,2026-03-17,Ludhiana,Mutual Funds,39,Male,27600,Net Banking,Successful
+AF0058,2026-04-22,Chandigarh,Equity Investments,29,Male,67600,Debit Card,Successful
+AF0059,2026-08-29,Jalandhar,Pension Plans,35,Female,85600,NEFT,Successful
+AF0060,2026-09-15,Patiala,Debt Funds,55,Male,22200,Debit Card,Successful
+AF0061,2026-02-23,Amritsar,Mutual Funds,59,Male,67400,NEFT,Successful
+AF0062,2026-07-06,Jalandhar,Mutual Funds,44,Male,57800,NEFT,Successful
+AF0063,2026-10-19,Amritsar,Pension Plans,56,Female,86500,NEFT,Successful
+AF0064,2026-10-15,Amritsar,Mutual Funds,44,Male,66300,Debit Card,Successful
+AF0065,2026-02-09,Jalandhar,Equity Investments,44,Female,53000,NEFT,Successful
+AF0066,2026-08-31,Amritsar,Equity Investments,59,Male,25000,UPI,Pending
+AF0067,2026-08-08,Patiala,Debt Funds,55,Female,12400,Debit Card,Successful
+AF0068,2026-04-12,Jalandhar,Pension Plans,56,Male,74400,Net Banking,Successful
+AF0069,2026-04-06,Amritsar,Mutual Funds,40,Male,18300,UPI,Pending
+AF0070,2026-08-10,Patiala,Equity Investments,48,Male,85600,Net Banking,Successful
+AF0071,2026-07-18,Amritsar,Debt Funds,26,Female,88800,NEFT,Failed
+AF0072,2026-07-13,Amritsar,Mutual Funds,45,Male,45600,UPI,Successful
+AF0073,2026-08-08,Chandigarh,Mutual Funds,40,Male,75100,Debit Card,Successful
+AF0074,2026-10-07,Ludhiana,Debt Funds,22,Male,51300,NEFT,Failed
+AF0075,2026-08-25,Ludhiana,Mutual Funds,50,Female,76100,Debit Card,Failed
+AF0076,2026-01-28,Ludhiana,Pension Plans,41,Female,78300,UPI,Successful
+AF0077,2026-09-03,Patiala,Pension Plans,22,Male,21800,UPI,Successful
+AF0078,2026-01-16,Patiala,Debt Funds,33,Male,88300,NEFT,Successful
+AF0079,2026-07-23,Patiala,Pension Plans,52,Female,73000,Net Banking,Successful
+AF0080,2026-01-13,Ludhiana,Mutual Funds,45,Female,14600,Debit Card,Successful
+AF0081,2026-01-27,Ludhiana,Mutual Funds,29,Male,77300,UPI,Successful
+AF0082,2026-08-04,Jalandhar,Pension Plans,24,Male,68700,Debit Card,Successful
+AF0083,2026-03-08,Chandigarh,Debt Funds,25,Male,80100,Net Banking,Successful
+AF0084,2026-10-25,Jalandhar,Equity Investments,60,Male,51100,Debit Card,Successful
+AF0085,2026-03-17,Amritsar,Mutual Funds,52,Female,85400,Net Banking,Successful
+AF0086,2026-10-13,Amritsar,Mutual Funds,62,Male,44200,Net Banking,Successful
+AF0087,2026-10-23,Jalandhar,Mutual Funds,40,Female,16300,Net Banking,Successful
+AF0088,2026-07-12,Amritsar,Equity Investments,63,Male,18000,Debit Card,Successful
+AF0089,2026-10-07,Ludhiana,Equity Investments,31,Female,8000,Net Banking,Successful
+AF0090,2026-06-21,Jalandhar,Debt Funds,48,Female,51400,Net Banking,Successful
+AF0091,2026-04-15,Amritsar,Equity Investments,37,Female,51600,NEFT,Successful
+AF0092,2026-08-12,Patiala,Pension Plans,54,Female,15900,Debit Card,Successful
+AF0093,2026-03-16,Ludhiana,Pension Plans,26,Male,31700,NEFT,Successful
+AF0094,2026-09-13,Chandigarh,Mutual Funds,42,Male,11500,UPI,Successful
+AF0095,2026-01-21,Jalandhar,Mutual Funds,59,Male,68100,Debit Card,Successful
+AF0096,2026-02-16,Ludhiana,Debt Funds,43,Prefer not to say,61800,NEFT,Successful
+AF0097,2026-05-17,Ludhiana,Mutual Funds,52,Male,70600,NEFT,Successful
+AF0098,2026-07-14,Chandigarh,Mutual Funds,42,Male,62300,UPI,Successful
+AF0099,2026-05-07,Chandigarh,Pension Plans,58,Prefer not to say,76000,Debit Card,Successful
+AF0100,2026-02-13,Chandigarh,Equity Investments,58,Male,76600,NEFT,Successful
+AF0101,2026-05-26,Chandigarh,Mutual Funds,61,Male,44800,Debit Card,Successful
+AF0102,2026-03-12,Amritsar,Mutual Funds,53,Male,21500,Net Banking,Successful
+AF0103,2026-03-23,Amritsar,Pension Plans,50,Female,25700,NEFT,Successful
+AF0104,2026-08-20,Chandigarh,Mutual Funds,60,Female,66600,Net Banking,Successful
+AF0105,2026-04-11,Chandigarh,Debt Funds,43,Female,46000,Net Banking,Successful
+AF0106,2026-06-28,Chandigarh,Pension Plans,59,Male,37600,Debit Card,Successful
+AF0107,2026-01-07,Chandigarh,Pension Plans,28,Male,38800,Net Banking,Successful
+AF0108,2026-02-28,Patiala,Mutual Funds,39,Female,56600,Net Banking,Successful
+AF0109,2026-06-22,Amritsar,Mutual Funds,49,Prefer not to say,5600,NEFT,Successful
+AF0110,2026-07-08,Jalandhar,Equity Investments,44,Female,88700,Debit Card,Pending
+AF0111,2026-07-09,Amritsar,Pension Plans,53,Male,71400,Debit Card,Successful
+AF0112,2026-06-18,Patiala,Debt Funds,27,Female,40400,Net Banking,Failed
+AF0113,2026-10-22,Chandigarh,Equity Investments,22,Female,68700,NEFT,Successful
+AF0114,2026-05-29,Amritsar,Pension Plans,31,Female,78000,Net Banking,Failed
+AF0115,2026-07-17,Chandigarh,Equity Investments,62,Female,12200,UPI,Successful
+AF0116,2026-01-12,Ludhiana,Equity Investments,62,Female,86000,Debit Card,Successful
+AF0117,2026-07-19,Chandigarh,Pension Plans,57,Male,70700,NEFT,Successful
+AF0118,2026-03-13,Patiala,Debt Funds,63,Female,24800,Debit Card,Successful
+AF0119,2026-06-11,Jalandhar,Equity Investments,51,Male,7500,Net Banking,Pending
+AF0120,2026-09-17,Patiala,Equity Investments,52,Male,71200,Debit Card,Successful
+AF0121,2026-02-04,Jalandhar,Pension Plans,24,Male,28300,Net Banking,Successful
+AF0122,2026-08-07,Patiala,Pension Plans,55,Male,50300,Net Banking,Successful
+AF0123,2026-02-06,Jalandhar,Pension Plans,47,Male,53800,Net Banking,Successful
+AF0124,2026-10-06,Ludhiana,Equity Investments,24,Male,34200,UPI,Successful
+AF0125,2026-06-18,Patiala,Equity Investments,36,Male,6500,NEFT,Successful
+AF0126,2026-10-19,Amritsar,Debt Funds,36,Male,47700,NEFT,Successful
+AF0127,2026-06-20,Patiala,Pension Plans,54,Female,32600,Debit Card,Successful
+AF0128,2026-07-18,Chandigarh,Mutual Funds,28,Female,77600,UPI,Successful
+AF0129,2026-01-01,Amritsar,Equity Investments,56,Male,29000,NEFT,Successful
+AF0130,2026-05-25,Jalandhar,Pension Plans,51,Female,55000,NEFT,Successful
+AF0131,2026-05-23,Amritsar,Equity Investments,50,Female,20700,NEFT,Successful
+AF0132,2026-06-05,Ludhiana,Equity Investments,54,Male,16800,UPI,Failed
+AF0133,2026-01-16,Chandigarh,Mutual Funds,44,Male,25900,UPI,Successful
+AF0134,2026-01-16,Chandigarh,Mutual Funds,61,Male,59000,Debit Card,Successful
+AF0135,2026-10-25,Ludhiana,Equity Investments,21,Male,30600,Net Banking,Successful
+AF0136,2026-09-20,Amritsar,Mutual Funds,22,Male,14400,Net Banking,Successful
+AF0137,2026-06-17,Chandigarh,Pension Plans,35,Male,71300,NEFT,Successful
+AF0138,2026-05-26,Chandigarh,Debt Funds,32,Male,33300,NEFT,Successful
+AF0139,2026-05-31,Jalandhar,Debt Funds,23,Male,44100,UPI,Successful
+AF0140,2026-10-07,Ludhiana,Mutual Funds,27,Female,84200,UPI,Successful
+AF0141,2026-05-25,Jalandhar,Equity Investments,59,Male,25500,Net Banking,Successful
+AF0142,2026-09-17,Ludhiana,Debt Funds,65,Male,43900,NEFT,Successful
+AF0143,2026-03-17,Patiala,Equity Investments,65,Male,83000,Debit Card,Successful
+AF0144,2026-09-05,Jalandhar,Mutual Funds,34,Male,51500,UPI,Successful
+AF0145,2026-07-13,Jalandhar,Mutual Funds,36,Male,31900,Debit Card,Successful
+AF0146,2026-02-20,Jalandhar,Debt Funds,58,Female,76800,Net Banking,Successful
+AF0147,2026-02-14,Jalandhar,Mutual Funds,52,Male,55400,NEFT,Successful
+AF0148,2026-06-04,Ludhiana,Pension Plans,45,Female,27500,NEFT,Successful
+AF0149,2026-04-29,Amritsar,Pension Plans,45,Female,15700,UPI,Pending
+AF0150,2026-03-25,Amritsar,Mutual Funds,36,Female,43000,Debit Card,Successful
+AF0151,2026-02-27,Patiala,Debt Funds,60,Male,6500,Debit Card,Successful
+AF0152,2026-07-05,Chandigarh,Equity Investments,44,Female,49600,Debit Card,Successful
+AF0153,2026-03-23,Patiala,Pension Plans,44,Male,69400,UPI,Successful
+AF0154,2026-08-30,Amritsar,Equity Investments,55,Male,41300,NEFT,Successful
+AF0155,2026-02-18,Chandigarh,Mutual Funds,29,Male,63000,NEFT,Failed
+AF0156,2026-09-19,Chandigarh,Pension Plans,60,Female,25700,Debit Card,Successful
+AF0157,2026-07-16,Jalandhar,Equity Investments,53,Female,37200,NEFT,Successful
+AF0158,2026-06-23,Patiala,Mutual Funds,59,Male,71100,NEFT,Pending
+AF0159,2026-01-01,Chandigarh,Debt Funds,65,Male,22300,NEFT,Successful
+AF0160,2026-08-07,Chandigarh,Pension Plans,36,Female,58400,Debit Card,Successful
+AF0161,2026-04-27,Amritsar,Debt Funds,42,Male,39700,Net Banking,Pending
+AF0162,2026-04-25,Ludhiana,Equity Investments,34,Male,70300,Debit Card,Successful
+AF0163,2026-01-08,Amritsar,Mutual Funds,54,Female,86100,Net Banking,Successful
+AF0164,2026-03-26,Ludhiana,Mutual Funds,23,Male,87900,Net Banking,Successful
+AF0165,2026-02-08,Chandigarh,Equity Investments,50,Female,8800,NEFT,Failed
+AF0166,2026-02-03,Chandigarh,Mutual Funds,34,Female,16500,NEFT,Successful
+AF0167,2026-02-01,Amritsar,Pension Plans,24,Male,88600,NEFT,Failed
+AF0168,2026-04-03,Ludhiana,Equity Investments,54,Female,41100,Debit Card,Successful
+AF0169,2026-06-08,Ludhiana,Mutual Funds,59,Female,19000,Debit Card,Successful
+AF0170,2026-08-12,Chandigarh,Mutual Funds,25,Female,77000,NEFT,Successful
+AF0171,2026-01-14,Chandigarh,Pension Plans,61,Male,22500,Net Banking,Successful
+AF0172,2026-03-22,Ludhiana,Pension Plans,23,Male,57500,Net Banking,Successful
+AF0173,2026-09-25,Jalandhar,Pension Plans,36,Female,65300,Debit Card,Pending
+AF0174,2026-03-17,Ludhiana,Mutual Funds,24,Female,30100,NEFT,Pending
+AF0175,2026-04-10,Chandigarh,Equity Investments,45,Male,49000,Net Banking,Successful
+AF0176,2026-02-10,Patiala,Mutual Funds,58,Male,20500,NEFT,Successful
+AF0177,2026-04-24,Patiala,Mutual Funds,22,Male,52100,UPI,Successful
+AF0178,2026-10-06,Jalandhar,Equity Investments,64,Female,82800,Net Banking,Successful
+AF0179,2026-07-20,Patiala,Pension Plans,54,Male,20900,NEFT,Successful
+AF0180,2026-02-16,Chandigarh,Pension Plans,62,Female,62900,Net Banking,Successful
+AF0181,2026-07-19,Patiala,Debt Funds,30,Female,57900,Debit Card,Successful
+AF0182,2026-05-14,Ludhiana,Debt Funds,33,Male,69000,Net Banking,Failed
+AF0183,2026-05-01,Jalandhar,Mutual Funds,49,Male,43900,UPI,Successful
+AF0184,2026-10-08,Jalandhar,Mutual Funds,34,Female,40100,Debit Card,Successful
+AF0185,2026-01-23,Amritsar,Pension Plans,28,Female,45100,NEFT,Successful
+AF0186,2026-09-15,Amritsar,Mutual Funds,54,Prefer not to say,88900,Debit Card,Pending
+AF0187,2026-05-18,Chandigarh,Debt Funds,63,Male,50100,Debit Card,Successful
+AF0188,2026-08-13,Amritsar,Equity Investments,47,Female,81000,Debit Card,Successful
+AF0189,2026-04-11,Jalandhar,Debt Funds,39,Male,40600,Net Banking,Successful
+AF0190,2026-02-08,Jalandhar,Mutual Funds,53,Male,32600,Debit Card,Successful
+AF0191,2026-09-27,Patiala,Mutual Funds,59,Male,32700,NEFT,Successful
+AF0192,2026-07-23,Chandigarh,Mutual Funds,33,Female,79000,Net Banking,Successful
+AF0193,2026-10-05,Amritsar,Mutual Funds,52,Female,82300,Debit Card,Successful
+AF0194,2026-07-05,Jalandhar,Mutual Funds,53,Male,31100,NEFT,Successful
+AF0195,2026-05-14,Jalandhar,Mutual Funds,60,Female,63200,Net Banking,Successful
+AF0196,2026-05-15,Patiala,Pension Plans,59,Male,77000,Debit Card,Successful
+AF0197,2026-05-15,Amritsar,Equity Investments,62,Female,58700,Net Banking,Successful
+AF0198,2026-09-14,Jalandhar,Pension Plans,31,Male,6700,NEFT,Successful
+AF0199,2026-07-10,Jalandhar,Mutual Funds,34,Male,43700,Net Banking,Successful
+AF0200,2026-06-28,Chandigarh,Equity Investments,34,Male,29300,NEFT,Successful
+AF0201,2026-04-22,Ludhiana,Equity Investments,58,Male,5600,Debit Card,Successful
+AF0202,2026-08-24,Chandigarh,Mutual Funds,33,Male,14800,UPI,Failed
+AF0203,2026-01-09,Chandigarh,Debt Funds,65,Male,40900,NEFT,Pending
+AF0204,2026-02-11,Chandigarh,Debt Funds,31,Male,26200,Debit Card,Pending
+AF0205,2026-08-05,Amritsar,Mutual Funds,45,Female,75700,Net Banking,Successful
+AF0206,2026-07-28,Patiala,Debt Funds,22,Male,5100,Debit Card,Failed
+AF0207,2026-07-27,Chandigarh,Pension Plans,41,Male,66800,UPI,Successful
+AF0208,2026-01-16,Chandigarh,Debt Funds,51,Female,69800,NEFT,Successful
+AF0209,2026-10-12,Jalandhar,Equity Investments,57,Female,40400,UPI,Successful
+AF0210,2026-09-29,Patiala,Mutual Funds,35,Female,53400,UPI,Successful
+AF0211,2026-03-27,Ludhiana,Mutual Funds,40,Female,10700,UPI,Successful
+AF0212,2026-01-11,Patiala,Debt Funds,22,Female,68400,UPI,Successful
+AF0213,2026-03-23,Ludhiana,Equity Investments,25,Male,74900,Debit Card,Successful
+AF0214,2026-08-13,Jalandhar,Mutual Funds,45,Male,32800,NEFT,Successful
+AF0215,2026-04-04,Jalandhar,Mutual Funds,54,Male,36200,NEFT,Successful
+AF0216,2026-01-27,Ludhiana,Mutual Funds,23,Prefer not to say,18700,Net Banking,Successful
+AF0217,2026-09-17,Patiala,Debt Funds,38,Female,16600,NEFT,Successful
+AF0218,2026-10-24,Ludhiana,Pension Plans,42,Male,43600,Debit Card,Successful
+AF0219,2026-03-18,Chandigarh,Equity Investments,58,Female,67400,Net Banking,Successful
+AF0220,2026-01-09,Jalandhar,Mutual Funds,48,Male,84100,Net Banking,Successful
+AF0221,2026-03-20,Ludhiana,Pension Plans,38,Male,69400,UPI,Successful
+AF0222,2026-06-08,Amritsar,Mutual Funds,58,Male,43200,UPI,Successful
+AF0223,2026-01-03,Jalandhar,Pension Plans,28,Female,23000,UPI,Successful
+AF0224,2026-05-23,Patiala,Equity Investments,36,Female,76400,UPI,Successful
+AF0225,2026-05-22,Patiala,Debt Funds,25,Male,21600,UPI,Successful
+AF0226,2026-05-09,Ludhiana,Mutual Funds,29,Male,11600,Net Banking,Pending
+AF0227,2026-03-16,Patiala,Equity Investments,48,Male,9600,NEFT,Successful
+AF0228,2026-09-28,Ludhiana,Pension Plans,23,Female,64400,UPI,Successful
+AF0229,2026-05-04,Ludhiana,Pension Plans,57,Female,15300,UPI,Successful
+AF0230,2026-10-30,Amritsar,Mutual Funds,42,Female,22800,NEFT,Successful
+AF0231,2026-10-06,Chandigarh,Mutual Funds,43,Female,73500,Net Banking,Failed
+AF0232,2026-10-23,Chandigarh,Equity Investments,42,Male,73400,UPI,Successful
+AF0233,2026-03-07,Ludhiana,Mutual Funds,47,Male,21400,Debit Card,Pending
+AF0234,2026-05-05,Jalandhar,Equity Investments,57,Male,73000,NEFT,Pending
+AF0235,2026-08-23,Chandigarh,Equity Investments,41,Female,32900,Net Banking,Successful
+AF0236,2026-06-18,Chandigarh,Equity Investments,44,Male,87400,UPI,Successful
+AF0237,2026-06-02,Jalandhar,Equity Investments,46,Female,66400,Debit Card,Successful
+AF0238,2026-03-20,Patiala,Pension Plans,25,Male,87500,Debit Card,Successful
+AF0239,2026-07-19,Patiala,Equity Investments,47,Male,85300,Debit Card,Pending
+AF0240,2026-01-12,Amritsar,Debt Funds,36,Female,82600,Debit Card,Successful
